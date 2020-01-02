@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project for 9-course IBM Data Science Specialization.
+This is the capstone project for 9-course IBM Data Science Specialization.
