@@ -10,6 +10,14 @@ Background:
 - Is his business more likely to succeed in a smaller city closer to the original location?
 - Or is it more likely to succeed in another large city, farther away?
 
+The Audience:
+- Business owners looking to open a new location in a new city.
+
 Caveat:
 - This exercise will examine similarity of cities based on the types of venues that exist within them.
 - Demographics, wealth, and personal business practices of the business owner will not be investigated at this time.
+
+Dataset and using Foursquare location data:
+- Foursqaure data will need to be used to determine what types of businesses are located within each examined city.
+- Business data from three large cities (Toronto, Vancouver, Montreal) as well as three smaller cities within the same province as each larger city (Peterborough, Victoria, Gatineau) will be used. 
+
